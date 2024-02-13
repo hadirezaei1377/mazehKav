@@ -8,3 +8,5 @@ master ----> https://github.com/mhrlife
 - `make test` to test everything.
 
 we use MySQL as our database.
+
+repository pattern is a point that is actually a summary of clean architecture and hexagonal architecture in Golang projects that we follow in this project.
