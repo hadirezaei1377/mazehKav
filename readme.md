@@ -1,8 +1,8 @@
-## MazeKav(مزه کاو)
-
-#### Before running the application:
+## MazehKav ======>> مزه کاو 
 
 master ----> https://github.com/mhrlife
+
+#### Before running the application:
 
 - Rename .env.sample to .env and fill out the environment values.
 - `make test` to test everything.
